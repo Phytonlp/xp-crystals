@@ -1,0 +1,23 @@
+Custom License – Free Use With Attribution and Redistribution Restrictions
+
+Copyright © Phyton 2025
+
+Permission is hereby granted to any person to use, reference, or include this content (the “Work”) in their own projects, whether personal, public, or commercial, provided that the following conditions are met:
+
+1. Attribution:
+   - Proper credit must be given to the original creator (the copyright holder).
+   - Credit must be clearly visible in any public use, distribution, or documentation of the Work.
+
+2. Ownership:
+   - You may not claim authorship or exclusive ownership of the Work, in whole or in part.
+
+3. Redistribution Restrictions:
+   - You may NOT reupload, redistribute, or republish the Work, whether modified or unmodified, as a standalone download or separate content.
+   - Inclusion of the Work in a larger project (e.g., a datapack collection or modpack) is allowed **only if** attribution is provided and the Work is not the primary or sole component.
+
+4. Modifications:
+   - You may modify the Work for personal or internal use.
+   - You may NOT distribute modified versions publicly.
+
+By using this Work, you agree to these terms. For any uses outside these permissions, contact the original creator.
+
